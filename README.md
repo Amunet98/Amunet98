@@ -102,38 +102,6 @@ const me = {
 | ✋ **[Hand Gesture Recognition](https://github.com/Amunet98/gesture-recognition)** | Browser-only real-time recognition of 7 hand gestures — [live](https://gesture-recognition-ten.vercel.app) | `MediaPipe` `WASM` `React` |
 | 🎨 **[Air Canvas](https://github.com/Amunet98/air-canvas)** | Draw in the air with your finger — hand-tracked painting, no backend — [live](https://air-canvas-pied.vercel.app) | `MediaPipe` `Canvas API` `React` |
 
-<a href="https://github.com/Amunet98/lekh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amunet98&repo=lekh&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Amunet98/gesture-recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amunet98&repo=gesture-recognition&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amunet98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amunet98&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=Amunet98&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amunet98&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amunet98&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies"/>
-
 </div>
 
 ---
