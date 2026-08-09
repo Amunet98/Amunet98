@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Hi%2C%20I'm%20Bimesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 🚀 Full-Stack Developer &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 🧠 Lifelong Learner
+### 🚀 Full-Stack Developer &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 🔒 Secure Backends
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Teaching+computers+to+see+👁️;Real-time+computer+vision+in+the+browser;Full-stack+apps+%26+APIs;Always+shipping+🚢" alt="Typing SVG" />
 
@@ -39,14 +39,15 @@ const me = {
   role: "Full-Stack Software Developer",
   currentFocus: "Real-time computer vision in the browser & full-stack apps",
   funFact: "I taught the browser to read Devanagari ✍️",
-  askMeAbout: ["web dev", "computer vision", "Salesforce"],
+  askMeAbout: ["web dev", "computer vision", "database design", "Salesforce"],
 };
 ```
 
 - 🔭 Currently working on **[Lekh](https://github.com/Amunet98/lekh)** — a Nepali typing, OCR & translation PWA
 - 🌱 Learning more **ML / computer vision** and **on-device AI** (Transformers.js, ONNX)
 - 👯 Open to collaborating on **open-source projects**
-- 💬 Ask me about **JavaScript/TypeScript, Python, or computer vision in the browser**
+- 🔒 Recently went back through a five-year-old project of mine and **wrote up every bug I found** — [20 of them](https://github.com/Amunet98/stadium-booking/blob/main/docs/SECURITY-FINDINGS.md)
+- 💬 Ask me about **JavaScript/TypeScript, Python, computer vision in the browser, or why your booking system oversells**
 - ⚡ Fun fact: **Salesforce Trailhead Double Star Ranger — 289 badges & 100k+ points** 🏅
 
 ---
@@ -60,6 +61,7 @@ const me = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend
@@ -101,6 +103,7 @@ const me = {
 | 👁️ **[Human Anomaly Detection](https://github.com/Amunet98/human-anomaly-detection-frontend)** | Real-time fall/pose detection with a self-trained YOLOv8 model — [live demo](https://www.bimeshpoudel.com.np/human-anomaly-live-demo) | `YOLOv8` `ONNX` `Node.js` |
 | ✋ **[Hand Gesture Recognition](https://github.com/Amunet98/gesture-recognition)** | Browser-only real-time recognition of 7 hand gestures — [live](https://gesture-recognition-ten.vercel.app) | `MediaPipe` `WASM` `React` |
 | 🎨 **[Air Canvas](https://github.com/Amunet98/air-canvas)** | Draw in the air with your finger — hand-tracked painting, no backend — [live](https://air-canvas-pied.vercel.app) | `MediaPipe` `Canvas API` `React` |
+| 🏟️ **[Stadium Booking](https://github.com/Amunet98/stadium-booking)** | Restored my 3rd-year project and fixed what I found: an admin panel open to anyone, and a race condition that oversold seats — [the numbers](https://github.com/Amunet98/stadium-booking#the-two-bugs-worth-reading-about) | `PHP 8` `MySQL` `Docker` |
 
 </div>
 
