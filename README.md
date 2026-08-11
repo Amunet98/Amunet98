@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Hi%2C%20I'm%20Bimesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 🚀 Full-Stack Developer &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 🔒 Secure Backends
+### 🚀 Software Developer &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 🔒 Secure Backends
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Teaching+computers+to+see+👁️;Real-time+computer+vision+in+the+browser;Full-stack+apps+%26+APIs;Always+shipping+🚢" alt="Typing SVG" />
 
@@ -36,7 +36,7 @@
 ```typescript
 const me = {
   location: "Kathmandu, Nepal 🇳🇵",
-  role: "Full-Stack Software Developer",
+  role: "Software Developer / Computer Vision",
   currentFocus: "Real-time computer vision in the browser & full-stack apps",
   funFact: "I taught the browser to read Devanagari ✍️",
   askMeAbout: ["web dev", "computer vision", "database design", "Salesforce"],
