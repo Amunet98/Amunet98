@@ -100,10 +100,10 @@ const me = {
 | Project | Description | Tech |
 |---------|-------------|------|
 | ⌨️ **[Lekh](https://github.com/Amunet98/lekh)** | Romanized Nepali typing IME with in-browser OCR & offline translation — [live](https://lekh-gamma.vercel.app) | `React` `TypeScript` `Transformers.js` |
-| 👁️ **[Human Anomaly Detection](https://github.com/Amunet98/human-anomaly-detection-frontend)** | Real-time fall/pose detection — YOLOv8 pose model plus a geometric posture classifier calibrated over 4,924 images, running in the browser or server-side; replaced a 3-class detector I trained on 8,340 images that evaluation showed keyed on scene appearance — [live demo](https://www.bimeshpoudel.com.np/human-anomaly-live-demo) | `YOLOv8` `ONNX` `Node.js` |
+| 👁️ **[Human Anomaly Detection](https://github.com/Amunet98/human-anomaly-detection-frontend)** | My final-year project, restored and rebuilt — real-time fall/pose detection: YOLOv8 pose model plus a geometric posture classifier calibrated over 4,924 images, running in the browser or server-side; replaced a 3-class detector I trained on 8,340 images that evaluation showed keyed on scene appearance — [live demo](https://www.bimeshpoudel.com.np/human-anomaly-live-demo) | `YOLOv8` `ONNX` `Node.js` |
 | ✋ **[Hand Gesture Recognition](https://github.com/Amunet98/gesture-recognition)** | Browser-only real-time recognition of 7 hand gestures — [live](https://gesture-recognition-ten.vercel.app) | `MediaPipe` `WASM` `React` |
 | 🎨 **[Air Canvas](https://github.com/Amunet98/air-canvas)** | Draw in the air with your finger — hand-tracked painting, no backend — [live](https://air-canvas-pied.vercel.app) | `MediaPipe` `Canvas API` `React` |
-| 🏟️ **[Stadium Booking](https://github.com/Amunet98/stadium-booking)** | Restored my 3rd-year project and fixed what I found: an admin panel open to anyone, and a race condition that oversold seats — [live](https://stadium-booking-75sm.onrender.com) &middot; [the numbers](https://github.com/Amunet98/stadium-booking#the-two-bugs-worth-reading-about) | `PHP 8` `MySQL` `Docker` |
+| 🏟️ **[Stadium Booking](https://github.com/Amunet98/stadium-booking)** | My 3rd-year project, restored — and fixed what I found: an admin panel open to anyone, and a race condition that oversold seats — [live](https://stadium-booking-75sm.onrender.com) &middot; [the numbers](https://github.com/Amunet98/stadium-booking#the-two-bugs-worth-reading-about) | `PHP 8` `MySQL` `Docker` |
 
 </div>
 
