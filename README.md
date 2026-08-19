@@ -43,7 +43,7 @@ const me = {
 };
 ```
 
-- 🔭 Currently working on **[Lekh](https://github.com/Amunet98/lekh)** — a Nepali typing, OCR & translation PWA
+- 🔭 Currently working on **[Lekh Patro](https://github.com/Amunet98/lekh)** — a Nepali typing, OCR, translation & Bikram Sambat calendar PWA, now also a native Android app with home-screen widgets
 - 🌱 Learning more **ML / computer vision** and **on-device AI** (Transformers.js, ONNX)
 - 👯 Open to collaborating on **open-source projects**
 - 🔒 Recently went back through a five-year-old project of mine and **wrote up every bug I found** — [20 of them](https://github.com/Amunet98/stadium-booking/blob/main/docs/SECURITY-FINDINGS.md)
@@ -61,6 +61,7 @@ const me = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -99,7 +100,7 @@ const me = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| ⌨️ **[Lekh](https://github.com/Amunet98/lekh)** | Romanized Nepali typing IME with in-browser OCR & offline translation — [live](https://lekh-gamma.vercel.app) | `React` `TypeScript` `Transformers.js` |
+| ⌨️ **[Lekh Patro](https://github.com/Amunet98/lekh)** | Romanized Nepali typing IME with in-browser OCR, offline translation & a Bikram Sambat calendar — also ships as a native Android app with home-screen widgets — [live](https://lekh-gamma.vercel.app) | `React` `TypeScript` `Transformers.js` `Kotlin` |
 | 👁️ **[Human Anomaly Detection](https://github.com/Amunet98/human-anomaly-detection-frontend)** | My final-year project, restored and rebuilt — real-time fall/pose detection: YOLOv8 pose model plus a geometric posture classifier calibrated over 4,924 images, running in the browser or server-side; replaced a 3-class detector I trained on 8,340 images that evaluation showed keyed on scene appearance — [live demo](https://www.bimeshpoudel.com.np/human-anomaly-live-demo) | `YOLOv8` `ONNX` `Node.js` |
 | ✋ **[Hand Gesture Recognition](https://github.com/Amunet98/gesture-recognition)** | Browser-only real-time recognition of 7 hand gestures — [live](https://gesture-recognition-ten.vercel.app) | `MediaPipe` `WASM` `React` |
 | 🎨 **[Air Canvas](https://github.com/Amunet98/air-canvas)** | Draw in the air with your finger — hand-tracked painting, no backend — [live](https://air-canvas-pied.vercel.app) | `MediaPipe` `Canvas API` `React` |
