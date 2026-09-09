@@ -6,7 +6,7 @@
 
 ### 🚀 Software Developer &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 🔒 Secure Backends
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Teaching+computers+to+see+👁️;Real-time+computer+vision+in+the+browser;Full-stack+apps+%26+APIs;Always+shipping+🚢" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Teaching+computers+to+see+👁️;Real-time+computer+vision+in+the+browser;Full-stack+apps+%26+APIs;Always+shipping+🚢" alt="Typing SVG" />
 
 <br/>
 
@@ -75,6 +75,7 @@ const me = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### ML & Computer Vision
@@ -89,6 +90,7 @@ const me = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
 </div>
 
