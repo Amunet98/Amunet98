@@ -6,7 +6,7 @@
 
 ### 🚀 Software Developer &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 🔒 Secure Backends
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Teaching+computers+to+see+👁️;Real-time+computer+vision+in+the+browser;Full-stack+apps+%26+APIs;Always+shipping+🚢" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Teaching+computers+to+see+%F0%9F%91%81%EF%B8%8F;Real-time+computer+vision+in+the+browser;Full-stack+apps+%26+APIs;Always+shipping+%F0%9F%9A%A2" alt="Typing SVG" />
 
 <br/>
 
