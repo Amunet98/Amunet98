@@ -43,7 +43,7 @@ const me = {
 };
 ```
 
-- 🔭 Currently working on **[Lekh Patro](https://github.com/Amunet98/lekh)** — a Nepali typing, OCR, translation & Bikram Sambat calendar PWA, now also a native Android app with home-screen widgets
+- 🔭 Currently working on **[Lekh Patro](https://github.com/Amunet98/lekh)** — a Nepali typing, OCR, translation & Bikram Sambat calendar PWA, now also a native Android app with home-screen widgets, [live on Google Play](https://play.google.com/store/apps/details?id=np.com.bimeshpoudel.lekh)
 - 🌱 Learning more **ML / computer vision** and **on-device AI** (Transformers.js, ONNX)
 - 👯 Open to collaborating on **open-source projects**
 - 🔒 Recently went back through a five-year-old project of mine and **wrote up every bug I found** — [20 of them](https://github.com/Amunet98/stadium-booking/blob/main/docs/SECURITY-FINDINGS.md)
@@ -102,7 +102,7 @@ const me = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| ⌨️ **[Lekh Patro](https://github.com/Amunet98/lekh)** | Romanized Nepali typing IME with in-browser OCR, English↔Nepali translation (optionally fully on-device) & a Bikram Sambat calendar — also ships as a native Android app with home-screen widgets — [live](https://lekh-gamma.vercel.app) | `React` `TypeScript` `Transformers.js` `Kotlin` |
+| ⌨️ **[Lekh Patro](https://github.com/Amunet98/lekh)** | Romanized Nepali typing IME with in-browser OCR, English↔Nepali translation (optionally fully on-device) & a Bikram Sambat calendar — also ships as a native Android app with home-screen widgets — [live](https://lekh-gamma.vercel.app) · [Google Play](https://play.google.com/store/apps/details?id=np.com.bimeshpoudel.lekh) | `React` `TypeScript` `Transformers.js` `Kotlin` |
 | 👁️ **[Human Anomaly Detection](https://github.com/Amunet98/human-anomaly-detection-frontend)** | My final-year project, restored and rebuilt — real-time fall/pose detection: YOLOv8 pose model plus a geometric posture classifier calibrated over 4,924 images, running in the browser or server-side; replaced a 3-class detector I trained on 8,340 images that evaluation showed keyed on scene appearance — [live demo](https://www.bimeshpoudel.com.np/human-anomaly-live-demo) | `YOLOv8` `ONNX` `Node.js` |
 | ✋ **[Hand Gesture Recognition](https://github.com/Amunet98/gesture-recognition)** | Browser-only real-time recognition of 7 hand gestures — [live](https://gesture-recognition-ten.vercel.app) | `MediaPipe` `WASM` `React` |
 | 🎨 **[Air Canvas](https://github.com/Amunet98/air-canvas)** | Draw in the air with your finger — hand-tracked painting, no backend — [live](https://air-canvas-pied.vercel.app) | `MediaPipe` `Canvas API` `React` |
